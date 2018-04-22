@@ -1,0 +1,20 @@
+ body {
+    background: #ffffff;
+    width: '960px';
+}
+logo {
+    background: #4aaaa5;
+    position: fixed;
+    top: 10px;
+    left: 290px;
+    width: 183px;
+    height: 56px;
+    text-align: center;
+    line-height: 250%;
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 16pt;
+}
+.background {
+    
+}
